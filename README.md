@@ -1,7 +1,7 @@
 # Arkanoid
 A cool game which I created in OOP course during the seconed semester of my first year.
 # Install
-Download these files and run in your java IDE.
+Download these files and run Ass6Game.main(). You can use your java IDE.
 # How To Play
 Your role is to control the paddle. Use the paddle to move the balls and save them from death. 
 You can move the paddle left and right using the arrow keys.
