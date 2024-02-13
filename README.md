@@ -1,4 +1,4 @@
-# Arkanoid - An Exciting OOP Game
+# Arkanoid - The Exciting OOP Game
 
 Welcome to Arkanoid, a thrilling game crafted during the second semester of my first year in the Object-Oriented Programming course.
 
